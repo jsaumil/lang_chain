@@ -1,21 +1,26 @@
 from langchain_huggingface import ChatHuggingFace, HuggingFacePipeline
 from langchain_core.messages import SystemMessage, HumanMessage, AIMessage
+from langchain_google_genai import ChatGoogleGenerativeAI
 from dotenv import load_dotenv
 import os
 
 load_dotenv()
 
-os.environ['HF_HOME'] = "F:\python\model"
-llm = HuggingFacePipeline.from_model_id(
-    model_id="TinyLlama/TinyLlama-1.1B-Chat-v1.0",
-    task='text-generation',
-    pipeline_kwargs=dict(
-        temperature=0.5,
-        max_new_tokens=100
-    )
-)
+# load_dotenv()
 
-model = ChatHuggingFace(llm=llm)
+model = ChatGoogleGenerativeAI(model='gemini-2.0-flash')
+
+# os.environ['HF_HOME'] = "F:\python\model"
+# llm = HuggingFacePipeline.from_model_id(
+#     model_id="TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+#     task='text-generation',
+#     pipeline_kwargs=dict(
+#         temperature=0.5,
+#         max_new_tokens=100
+#     )
+# )
+
+# model = ChatHuggingFace(llm=llm)
 
 chat_history=[
     SystemMessage(content='You are a helpful AI assistant')

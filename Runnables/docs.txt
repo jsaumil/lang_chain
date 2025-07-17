@@ -1,0 +1,48 @@
+﻿* For Authentication : Firebase
+* For Hosting : Firebase
+* For Storage : MongoDB Atlas
+
+
+
+
+* Registration and Authentication
+   * Using firebase and JWT token with google email ID (POST API)
+
+
+* Group Management
+   * Create, delete and update of the group (API: POST, DELETE, UPDATE)
+   * Total how much money person owe to other group members and how much money other members owes to you (CALCULATION DONE WITH MANGODB AND MANGOS FUNCTION)
+
+
+* Expense Addition
+   * Features (WE CAN TREAT IT AS MODULE)
+      * Split with whom user want (REQUIRED)
+      * Title of expense (REQUIRED)
+      * Amount of expense (REQUIRED)
+      * Paid by whom (REQUIRED, DEFAULT: YOU)
+      * Split Adjustments (REQUIRED, DEFAULT: EQUALLY)
+      * Date of expense(REQUIRED, DEFAULT : CREATING DATE)
+      * Adding photo of bill if the user want
+
+
+* Add Friends
+   * When an user add friend it automatically add in the friends list without accept or reject system
+   * Inviting them through sms or other ways of inviting
+
+
+* Middleware
+   * If email is verified then add to user model
+
+
+* Models
+   * User
+   * Group
+   * Expense
+   * Split
+   * Settlement
+   * Attachment
+   * Notification
+   * invitation
+   * Reminder
+   * Transaction
+   *
