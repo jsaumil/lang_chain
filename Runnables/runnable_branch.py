@@ -27,4 +27,4 @@ bramch_chain = RunnableBranch(
     RunnablePassthrough()
 )
 
-final_chain 
+final_chain = RunnableSequence(report_gen_chain, branch_chain)
