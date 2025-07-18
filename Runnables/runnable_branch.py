@@ -24,5 +24,7 @@ report_gen_chain = RunnableSequence(prompt1, model, parser)
 
 bramch_chain = RunnableBranch(
     (lambda x: len(x.split())>500, RunnableSequence(prompt1, model, parser)),
-    default
+    RunnablePassthrough()
 )
+
+final_chain 
