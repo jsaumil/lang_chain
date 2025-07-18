@@ -13,5 +13,11 @@ prompt1 = PromptTemplate(
 
 prompt2 = PromptTemplate(
     template = 'Summarize the following text \n {text}',
-    
+    input_variables = ['text']
 )
+
+model = ChatGoogleGenerativeAI(model='gemini-2.0-flash')
+
+parser = StrOutputParser()
+
+report
