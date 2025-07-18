@@ -29,4 +29,6 @@ branch_chain = RunnableBranch(
 
 final_chain = RunnableSequence(report_gen_chain, branch_chain)
 
-final_chain.invoke({'tpic':})
+final_chain.invoke({'tpic':'Russia vs Ukraine'})
+
+final_chain.get_graph().draw_ascii()
