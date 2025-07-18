@@ -9,4 +9,6 @@ load_dotenv()
 def word_counter(text):
     return len(text.split())
 
-runn
+runnable_word_counter = RunnableLambda(word_counter)
+
+print(runnable_word_counter.invoke("This is a test sentence to count words."))
