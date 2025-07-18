@@ -2,13 +2,24 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from dotenv import load_dotenv
-from langchain.schema.runnable import RunnableLambda
+from langchain.schema.runnable import RunnableSequence
 
 load_dotenv()
 
-def word_counter(text):
-    return len(text.split())
+prompt = PromptTemplate(
+    template = 'Write a joke about {topic}',
+    input_variables = ['topic']
+)
 
-runnable_word_counter = RunnableLambda(word_counter)
+model = ChatGoogleGenerativeAI(model = 'gemini-2.0-flash')
 
-print(runnable_word_counter.invoke("This is a test sentence to count words."))
+parser = StrOutputParser()
+
+prompt2 = PromptTemplate(
+    template= 'Explain the following joke - {text}',
+    input_variables = ['text']
+)
+
+chain = RunnableSequence(prompt, model, parser, prompt2, model, parser)
+
+print(chain.invoke({'topic': 'AI'}))
