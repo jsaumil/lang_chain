@@ -22,9 +22,11 @@ parser = StrOutputParser()
 
 report_gen_chain = RunnableSequence(prompt1, model, parser)
 
-bramch_chain = RunnableBranch(
+branch_chain = RunnableBranch(
     (lambda x: len(x.split())>500, RunnableSequence(prompt1, model, parser)),
     RunnablePassthrough()
 )
 
 final_chain = RunnableSequence(report_gen_chain, branch_chain)
+
+final_chain.invoke({'tpic':})
