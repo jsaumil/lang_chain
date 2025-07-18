@@ -267,6 +267,7 @@ class PDFRAGPipeline:
                 search_kwargs={"k": 5}
             ),
             chain_type_kwargs={"prompt": prompt},
+            return_source_documents=True
         )
 
     def initialize_qa_chain(self):
