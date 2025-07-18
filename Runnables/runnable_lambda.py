@@ -6,6 +6,9 @@ from langchain.schema.runnable import RunnableSequence, RunnableLambda, Runnable
 
 load_dotenv()
 
+def word_count(text):
+    return len(text.split())
+
 prompt = PromptTemplate(
     template = 'Write a joke about {topic}',
     input_variables = ['topic']
@@ -17,6 +20,6 @@ parser = StrOutputParser()
 
 joke_gen_chain = RunnableSequence(prompt, model, parser)
 
-para
+
 
 print(chain.invoke({'topic': 'AI'}))
