@@ -20,6 +20,7 @@ parser = StrOutputParser()
 
 joke_gen_chain = RunnableSequence(prompt, model, parser)
 
-
-
-print(chain.invoke({'topic': 'AI'}))
+parallel_chain = RunnableParallel({
+    'joke':RunnableParallel(),
+    'word'
+})
