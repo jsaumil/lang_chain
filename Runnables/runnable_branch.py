@@ -7,6 +7,10 @@ from langchain.schema.runnable import RunnableSequence, RunnableBranch, Runnable
 load_dotenv()
 
 prompt1 = PromptTemplate(
-    template='Write a joke about {topic}',
+    template='Write a detail report on {topic}',
     input_variables=['topic']
+)
+
+prompt2 = PromptTemplate(
+    tem
 )
