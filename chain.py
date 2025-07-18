@@ -259,7 +259,8 @@ class PDFRAGPipeline:
         
         # Promppt Template for RAG Summary
         prompt = """
-        You are
+        You are helfful assistant.
+        is this following user question rel
         """
         self.chain = RetrievalQA.from_chain_type(
             llm=self.llm,
