@@ -22,4 +22,7 @@ parser = StrOutputParser()
 
 report_gen_chain = RunnableSequence(prompt1, model, parser)
 
-bramch_chain = RunnableBranch({
+bramch_chain = RunnableBranch(
+    (),
+    defau
+)
