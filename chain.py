@@ -258,7 +258,9 @@ class PDFRAGPipeline:
             raise ValueError("Vector store is not initialized. Please ingest documents first.")
         
         # Promppt Template for RAG Summary
-        prompt = "Give the full summary of the following document \n \n"
+        prompt = """
+        You are
+        """
         self.chain = RetrievalQA.from_chain_type(
             llm=self.llm,
             chain_type="stuff",
