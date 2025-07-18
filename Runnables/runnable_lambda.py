@@ -22,5 +22,5 @@ joke_gen_chain = RunnableSequence(prompt, model, parser)
 
 parallel_chain = RunnableParallel({
     'joke':RunnableParallel(),
-    'word'
+    'word_count': RunnableLambda(lambda x: len(x.split()))
 })
