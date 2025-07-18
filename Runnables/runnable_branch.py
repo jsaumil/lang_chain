@@ -23,12 +23,12 @@ parser = StrOutputParser()
 report_gen_chain = RunnableSequence(prompt1, model, parser)
 
 branch_chain = RunnableBranch(
-    (lambda x: len(x.split())>500, RunnableSequence(prompt1, model, parser)),
+    (lambda x: len(x.split())>500, RunnableSequence(prompt2, model, parser)),
     RunnablePassthrough()
 )
 
 final_chain = RunnableSequence(report_gen_chain, branch_chain)
 
-final_chain.invoke({'tpic':'Russia vs Ukraine'})
+final_chain.invoke({'topic':'Russia vs Ukraine'})
 
 final_chain.get_graph().draw_ascii()
