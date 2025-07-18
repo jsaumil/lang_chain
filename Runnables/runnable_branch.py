@@ -31,4 +31,4 @@ final_chain = RunnableSequence(report_gen_chain, branch_chain)
 
 print(final_chain.invoke({'topic':'Russia vs Ukraine'}))
 
-final_chain.get_graph().draw_ascii()
+final_chain.get_graph().print_ascii()
