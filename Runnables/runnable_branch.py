@@ -12,5 +12,6 @@ prompt1 = PromptTemplate(
 )
 
 prompt2 = PromptTemplate(
-    tem
+    template = 'Summarize the following text \n {text}',
+    
 )
