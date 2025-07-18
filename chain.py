@@ -273,6 +273,8 @@ class PDFRAGPipeline:
             return_source_documents=True
         )
 
+        
+
     def initialize_qa_chain(self):
         """Initialize the QA chain with memory and retriever"""
         if self.vector_store is None:
