@@ -5,3 +5,8 @@ from dotenv import load_dotenv
 from langchain.schema.runnable import RunnableLambda
 
 load_dotenv()
+
+def word_counter(text):
+    return len(text.split())
+
+runn
