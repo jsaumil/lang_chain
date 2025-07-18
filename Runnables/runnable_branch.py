@@ -24,5 +24,5 @@ report_gen_chain = RunnableSequence(prompt1, model, parser)
 
 bramch_chain = RunnableBranch(
     (),
-    defau
+    default
 )
