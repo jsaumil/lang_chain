@@ -252,7 +252,7 @@ class PDFRAGPipeline:
         else:
             self.vector_store.add_documents(chunks)
 
-    def check_rag(self):
+    def check_rag_qa(self):
         """"Check is question is related to the RAG"""
         if self.vector_store is None:
             raise ValueError("Vector store is not initialized. Please ingest documents first.")
