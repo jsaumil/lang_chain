@@ -20,4 +20,6 @@ model = ChatGoogleGenerativeAI(model='gemini-2.0-flash')
 
 parser = StrOutputParser()
 
-report
+report_gen_chain = RunnableSequence(prompt1, model, parser)
+
+bramch_chain = RunnableBranch({
