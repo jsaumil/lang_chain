@@ -1,1 +1,664 @@
-{"long_term_memory": [{"user_input": "hii", "ai_response": "Hi there! How can I help you today?", "timestamp": "2025-07-16T15:22:10.506344"}, {"user_input": "im 12th passout", "ai_response": "Okay, congratulations on passing 12th! That's a big accomplishment. What are you thinking about doing next? I can help you explore options like:\n\n*   **Further Education:**\n    *   Different degree programs (BA, BSc, BCom, Engineering, Medical, etc.)\n    *   Colleges and universities\n    *   Entrance exams\n    *   Scholarships and financial aid\n*   **Career Paths:**\n    *   Exploring different career options based on your interests and skills\n    *   Entry-level jobs\n    *   Vocational training or apprenticeships\n*   **Gap Year:**\n    *   Planning a productive gap year (volunteering, travel, internships, etc.)\n\nJust let me know what you're interested in, or if you're feeling lost, tell me a little about your interests, what subjects you enjoyed in school, and what you're good at. I'm here to help you figure out your next steps!", "timestamp": "2025-07-16T15:22:39.091689"}, {"user_input": "hyy", "ai_response": "Hi! How can I help you today? Are you still thinking about your options after passing 12th?", "timestamp": "2025-07-16T15:23:57.216357"}, {"user_input": "im good in maths", "ai_response": "That's great! Since you're good at maths, have you considered fields like engineering, computer science, data science, finance, or even becoming a math teacher? We can explore these options further if you'd like.", "timestamp": "2025-07-16T15:25:37.299171"}, {"user_input": "but im baad in physics", "ai_response": "Okay, that's good to know! So, while you're good at math but not physics, maybe engineering isn't the best fit. How about computer science, data science, or finance? These fields use math extensively but don't rely as heavily on physics. Are any of those interesting to you?", "timestamp": "2025-07-16T15:28:01.344263"}], "episodic_memory": {"157e0c43-1c07-4d52-85d8-ea4efecf4155": [{"user_input": "hii", "ai_response": "Hi there! How can I help you today?", "timestamp": "2025-07-16T15:22:10.506344"}, {"user_input": "im 12th passout", "ai_response": "Okay, congratulations on passing 12th! That's a big accomplishment. What are you thinking about doing next? I can help you explore options like:\n\n*   **Further Education:**\n    *   Different degree programs (BA, BSc, BCom, Engineering, Medical, etc.)\n    *   Colleges and universities\n    *   Entrance exams\n    *   Scholarships and financial aid\n*   **Career Paths:**\n    *   Exploring different career options based on your interests and skills\n    *   Entry-level jobs\n    *   Vocational training or apprenticeships\n*   **Gap Year:**\n    *   Planning a productive gap year (volunteering, travel, internships, etc.)\n\nJust let me know what you're interested in, or if you're feeling lost, tell me a little about your interests, what subjects you enjoyed in school, and what you're good at. I'm here to help you figure out your next steps!", "timestamp": "2025-07-16T15:22:39.091689"}, {"user_input": "hyy", "ai_response": "Hi! How can I help you today? Are you still thinking about your options after passing 12th?", "timestamp": "2025-07-16T15:23:57.216357"}, {"user_input": "im good in maths", "ai_response": "That's great! Since you're good at maths, have you considered fields like engineering, computer science, data science, finance, or even becoming a math teacher? We can explore these options further if you'd like.", "timestamp": "2025-07-16T15:25:37.299171"}, {"user_input": "but im baad in physics", "ai_response": "Okay, that's good to know! So, while you're good at math but not physics, maybe engineering isn't the best fit. How about computer science, data science, or finance? These fields use math extensively but don't rely as heavily on physics. Are any of those interesting to you?", "timestamp": "2025-07-16T15:28:01.344263"}]}, "current_session": "157e0c43-1c07-4d52-85d8-ea4efecf4155"}
+{
+  "long_term_memory": [
+    {
+      "user_input": "/stop",
+      "ai_response": "/stop",
+      "timestamp": "2025-07-22T17:17:52.237168"
+    },
+    {
+      "user_input": "i want admission in btech",
+      "ai_response": "The Gandhinagar University B.Tech program is a four-year undergraduate course. Admission is managed by the Admission Committee for Professional Courses (ACPC) and requires a passing score on the GUJCET exam.  Applicants must have completed their 10+2 education with Physics, Chemistry, and Mathematics (PCM). The tuition fee is Rs. 31,000 per semester. Specializations include Computer Engineering (300 seats), Information Technology (180 seats), Mechanical Engineering (180 seats), Civil Engineering (90 seats), and others with varying seat capacities.  The number of seats and specializations may change, so check the university's official website for the most up-to-date information.",
+      "timestamp": "2025-07-22T18:01:36.487045"
+    },
+    {
+      "user_input": "Information Technology in detail",
+      "ai_response": "Gandhinagar University offers a Bachelor of Technology (B.Tech) in Information Technology as a four-year undergraduate program.  Admission is through the Admission Committee for Professional Courses (ACPC) and requires a passing score on the GUJCET exam.  Applicants must have completed their 10+2 education with Physics, Chemistry, and Mathematics (PCM).  The program currently has 180 seats, but this number is subject to change. The tuition fee is Rs. 31,000 per semester.  For the most current information on seat availability and program details, please refer to the official Gandhinagar University website.",
+      "timestamp": "2025-07-22T18:02:27.405144"
+    },
+    {
+      "user_input": "what is the location of the university",
+      "ai_response": "The provided text does not specify the location of Gandhinagar University.  To find the location, you should consult the university's official website.",
+      "timestamp": "2025-07-22T18:03:38.931279"
+    },
+    {
+      "user_input": "i have done 12th science a group what should i do next ? and i am goog=d in maths",
+      "ai_response": "Given your 12th science (A group) background and aptitude for mathematics, you are well-suited for the B.Tech program at Gandhinagar University.  To apply, you need to:\n\n1. **Check the Gandhinagar University website:**  Confirm the specific eligibility criteria, deadlines, and application procedures for the current academic year.  The information provided is a summary and may not be entirely up-to-date.\n2. **Prepare for the GUJCET exam:** This is a crucial step for admission to the B.Tech program, managed by the ACPC.  Begin studying for this entrance exam immediately.\n3. **Choose your specialization:** Gandhinagar University offers several B.Tech specializations, including Computer Engineering and Information Technology, which would be particularly suitable given your math skills.  Research the different specializations to determine which best aligns with your interests and career goals.\n4. **Complete the application process:**  Once you've met the eligibility requirements and prepared for the GUJCET, fill out the application form through the ACPC.\n\n\nRemember that the details provided here are based on previous information, and you must verify the current admission requirements and procedures on the official Gandhinagar University website.",
+      "timestamp": "2025-07-23T11:14:35.470286"
+    },
+    {
+      "user_input": "the date of acpc is gone so can i take offline admission in your university?",
+      "ai_response": "The provided text does not contain information about offline admissions or deadlines for the ACPC.  To determine if offline admission is possible and what the relevant dates are, you must consult the official Gandhinagar University website.",
+      "timestamp": "2025-07-23T11:16:10.128252"
+    },
+    {
+      "user_input": "shut the fuck up i dont want any admission\\",
+      "ai_response": "I understand you're not interested in pursuing admission at Gandhinagar University right now.  I will not provide any further information about the admission process.",
+      "timestamp": "2025-07-23T11:18:06.121216"
+    },
+    {
+      "user_input": "tell me something about gandhi nagar universitliy",
+      "ai_response": "Gandhinagar University offers a wide range of undergraduate, postgraduate, diploma, and certificate programs across various disciplines.  For example,  it has a 4-year B.Tech program (with specializations like Computer Engineering, Information Technology, Mechanical Engineering, and Civil Engineering) requiring a 10+2 with Physics, Chemistry, and Mathematics (PCM) and a pass in the GUJCET exam.  Admission is handled by the Admission Committee for Professional Courses (ACPC) for professional courses like B.Tech, and by the Gandhinagar University Admission Committee for other programs.  The university also offers BBA and MBA programs with differing eligibility criteria and entrance exam requirements.  Tuition fees vary by program and are typically quoted per semester.  All information should be verified on the official Gandhinagar University website as details may change.",
+      "timestamp": "2025-07-23T11:18:24.961511"
+    },
+    {
+      "user_input": "what is the fess of btech",
+      "ai_response": "The provided text does not specify the tuition fees for a B.Tech program at Gandhinagar University.  However, it does state that  M.Tech tuition is Rs. 42,500/- per semester (FRC approved).  To find the B.Tech fees, you must consult the official Gandhinagar University website.",
+      "timestamp": "2025-07-23T11:18:36.091090"
+    },
+    {
+      "user_input": "location",
+      "ai_response": "The provided text does not specify the location of Gandhinagar University.  To find the location, you should consult the official Gandhinagar University website.",
+      "timestamp": "2025-07-23T11:19:08.072378"
+    },
+    {
+      "user_input": "what is the location of gandhinagar university",
+      "ai_response": "While the provided text doesn't specify the exact address, Gandhinagar University is, as its name suggests, located in Gandhinagar, Gujarat, India.  You can find the precise location and contact information on the official university website.",
+      "timestamp": "2025-07-23T11:38:40.970797"
+    },
+    {
+      "user_input": "what should i do after 12th science group a i am good at maths",
+      "ai_response": "The provided text gives information on several undergraduate programs at Gandhinagar University.  Since you are good at math and have completed your 12th science, you could consider the B.Sc. program (with a specialization in Mathematics) or the B.Sc. (Honours) program.  The specific admission process and requirements are not detailed here; you should check the official Gandhinagar University website for complete details.",
+      "timestamp": "2025-07-23T11:39:28.659784"
+    },
+    {
+      "user_input": "what should i do after 12 science group B",
+      "ai_response": "With a 12th Science Group B background, you have several options at Gandhinagar University.  While the provided information focuses on engineering and business administration,  Gandhinagar University offers a broad spectrum of undergraduate programs.  Given your science background, you might explore programs in areas like biotechnology, environmental science, or other science-related fields.  To determine the specific programs that align with your interests and the admission requirements, I strongly recommend visiting the official Gandhinagar University website.  There you will find a comprehensive list of programs and their respective eligibility criteria.  The admissions process will vary depending on the program you choose, but generally involves applying through either the ACPC (for professional courses) or the Gandhinagar University Admission Committee.",
+      "timestamp": "2025-07-23T11:42:11.298051"
+    },
+    {
+      "user_input": "i want to take admission in btech can i do that ??",
+      "ai_response": "The provided text mentions that the Admission Committee for Professional Courses (ACPC) handles admissions for engineering,  but it does not offer details on B.Tech admission requirements or the application process.  To find out if you can be admitted to a B.Tech program and how to apply, please check the official Gandhinagar University website.",
+      "timestamp": "2025-07-23T11:43:17.968991"
+    },
+    {
+      "user_input": "what is the location of the Collage",
+      "ai_response": "The provided text focuses on admissions and doesn't specify the location of Gandhinagar University.  However, as its name suggests, the university is located in Gandhinagar, India.  For precise location details including address and map, I recommend visiting the official Gandhinagar University website.",
+      "timestamp": "2025-07-23T11:59:03.406407"
+    },
+    {
+      "user_input": "fees of btech",
+      "ai_response": "The provided text does not contain information on B.Tech fees at Gandhinagar University.",
+      "timestamp": "2025-07-23T12:42:40.087948"
+    },
+    {
+      "user_input": "m tech",
+      "ai_response": "The provided text gives information about the M.Tech program at Gandhinagar University.  It's a 2-year program requiring a B.E./B.Tech. in a relevant branch or equivalent from a recognized board.  Admissions are handled by the Admission Committee for Professional Courses (ACPC). Tuition fees are Rs. 42,500/- per semester (FRC approved).  Specializations include Mechanical Engineering (Thermal Engineering and CAD/CAM) and Computer Engineering (Software Engineering).",
+      "timestamp": "2025-07-23T12:42:55.139900"
+    },
+    {
+      "user_input": "fees of b tech",
+      "ai_response": "The provided text does not contain information on B.Tech fees at Gandhinagar University.",
+      "timestamp": "2025-07-23T12:43:04.691081"
+    },
+    {
+      "user_input": "Available Specializations and Intake of b tech",
+      "ai_response": "The provided text does not contain information on B.Tech specializations and intake at Gandhinagar University.",
+      "timestamp": "2025-07-23T12:44:47.278791"
+    },
+    {
+      "user_input": "for m tech",
+      "ai_response": "The M.Tech program is a 2-year program requiring a B.E./B.Tech. in a relevant branch or equivalent from a recognized board.  Admissions are handled by the Admission Committee for Professional Courses (ACPC). Tuition fees are Rs. 42,500/- per semester (FRC approved). Specializations include Mechanical Engineering (Thermal Engineering and CAD/CAM) with 9 seats each, and Computer Engineering (Software Engineering) with 18 seats.",
+      "timestamp": "2025-07-23T12:44:54.614691"
+    },
+    {
+      "user_input": "only about Available Specializations and Intake",
+      "ai_response": "The provided text offers information on specializations and intake for several programs, but not B.Tech.  For M.Tech, there are 9 seats each for Mechanical Engineering (Thermal Engineering and CAD/CAM), and 18 seats for Computer Engineering (Software Engineering).  For M.A., there are 30 seats each for Gujarati, English, Hindi, Political Science, Psychology, and Economics.  The B.Sc. program has 60 seats each for Mathematics, Physics, Chemistry, Microbiology, Botany, Environmental Science, Nutrition, and Medical Laboratory Technicians.  The B.Sc. (Honours) program's specializations and intake numbers are not specified.",
+      "timestamp": "2025-07-23T12:45:19.318982"
+    },
+    {
+      "user_input": "fees of btech",
+      "ai_response": "The provided text does not contain information on B.Tech fees at Gandhinagar University.",
+      "timestamp": "2025-07-23T12:52:44.578977"
+    },
+    {
+      "user_input": "bba",
+      "ai_response": "The BBA program is a 3-year program requiring a 10+2 or equivalent from a recognized Indian board with English and Accountancy subjects.  Students who didn't take Accountancy in 12th grade must complete a bridge course for \u20b92000 before the first semester.  Admissions are merit-based through Gandhinagar University's Admission Committee.  Tuition is Rs. 35,000/- per semester, and there are 700 sanctioned seats.",
+      "timestamp": "2025-07-23T12:53:23.728642"
+    },
+    {
+      "user_input": "Bachelor of Science (Honours) ",
+      "ai_response": "The provided text gives the duration of the B.Sc. (Honours) program as 4 years and states that eligibility is a 10+2 (PCM/PCB) or equivalent from a recognized board.  Admissions are merit-based through Gandhinagar University's Admission Committee.  However, it does *not* specify the available specializations or intake numbers for this program.",
+      "timestamp": "2025-07-23T12:53:45.597714"
+    },
+    {
+      "user_input": "i am good in math and i have done science what should i do ?",
+      "ai_response": "Given your strong math skills and science background, several exciting avenues are open to you at Gandhinagar University.  Based on your profile, you would be well-suited for our Bachelor of Technology (B.Tech) program.  This 4-year program requires a 10+2 qualification with Physics, Chemistry, and Mathematics (PCM), and you'll need to pass the GUJCET exam for admission.  We offer specializations in areas like Computer Engineering, Information Technology, and Mechanical Engineering, among others.  Alternatively, you could consider our Bachelor of Science (Honours) program, which also requires a 10+2 with science subjects.  To learn more about specific specializations, seat availability, and the application process for either program, please visit our website or contact our admissions office. We can help you determine which program best aligns with your interests and career aspirations.",
+      "timestamp": "2025-07-23T12:54:14.909770"
+    },
+    {
+      "user_input": "b. tech",
+      "ai_response": "The B.Tech program is a 4-year program requiring a 10+2 qualification with Physics, Chemistry, and Mathematics (PCM).  Admission requires passing the GUJCET exam.  Specializations include Computer Engineering, Information Technology, and Mechanical Engineering, among others.  Specific details on seat availability and the application process are available on the university website or from the admissions office.",
+      "timestamp": "2025-07-23T12:54:33.607401"
+    },
+    {
+      "user_input": "fees of b tech",
+      "ai_response": "The provided text does not specify the fees for the B.Tech program.",
+      "timestamp": "2025-07-23T12:55:24.423399"
+    },
+    {
+      "user_input": "tution fees of btech",
+      "ai_response": "The tuition fee for the B.Tech program at Gandhinagar University is Rs. 31,000 per semester.  Please note that this fee is subject to change.",
+      "timestamp": "2025-07-23T12:57:43.473051"
+    },
+    {
+      "user_input": "fees of m tech",
+      "ai_response": "The tuition fee for the M.Tech program is Rs. 42,500 per semester (FRC approved) for Mechanical Engineering (Thermal Engineering) and Mechanical Engineering (CAD/CAM), and Rs. 41,475 per semester for Computer Engineering (Software Engineering).",
+      "timestamp": "2025-07-23T12:57:55.789119"
+    },
+    {
+      "user_input": "hi",
+      "ai_response": "Hi there! Welcome to Gandhinagar University. How can I help you today?  I'm happy to answer any questions you have about our admissions process or programs.",
+      "timestamp": "2025-07-23T13:05:22.702360"
+    },
+    {
+      "user_input": "i want to take admission in b. tech",
+      "ai_response": "The tuition fee for the B.Tech program at Gandhinagar University is Rs. 31,000 per semester.  Please note that this fee is subject to change.",
+      "timestamp": "2025-07-23T13:06:28.964463"
+    },
+    {
+      "user_input": "Program Overview of b tech",
+      "ai_response": "The provided text does not contain a \"Program Overview\" for a B.Tech program.  It only states that the tuition fee for the B.Tech program is Rs. 31,000 per semester.",
+      "timestamp": "2025-07-23T13:07:01.576503"
+    },
+    {
+      "user_input": "What are the library and sports facilities like on campus?",
+      "ai_response": "While the provided information focuses on admissions, I can tell you that Gandhinagar University is committed to providing a well-rounded student experience.  We strive to offer excellent library and sports facilities to support our students' academic and personal well-being.  To get specific details about our library resources and sports programs, I recommend visiting our university website or contacting our admissions office directly.  They can provide you with the most up-to-date information on these facilities.",
+      "timestamp": "2025-07-23T13:08:19.202278"
+    },
+    {
+      "user_input": "",
+      "ai_response": "To apply for the B.Tech program at Gandhinagar University, you'll need to have completed your 10+2 education with Physics, Chemistry, and Mathematics (PCM) and have passed the GUJCET.  Admission is handled by the Admission Committee for Professional Courses (ACPC).  The program is four years long, and the tuition fee is Rs. 31,000 per semester.  Keep in mind that this fee is subject to change.  Specific specializations within the B.Tech program include Computer Engineering, Information Technology, Mechanical Engineering, Civil Engineering, and others.  The number of seats available varies by specialization.  For more detailed information on specific specializations and seat availability, please check the university website or contact our admissions office.",
+      "timestamp": "2025-07-23T13:08:22.250685"
+    },
+    {
+      "user_input": "How much is the tuition fee per semester for the M.Tech program? ",
+      "ai_response": "The provided text focuses on B.Tech and other undergraduate programs, and doesn't specify the tuition fee for an M.Tech program.  However, at Gandhinagar University, tuition fees are subject to change and vary depending on the specific program.  For the most accurate and up-to-date information on M.Tech program fees, I recommend visiting the university website or contacting the admissions office directly.",
+      "timestamp": "2025-07-23T13:08:52.780427"
+    },
+    {
+      "user_input": "Is there an age limit for the B.Sc Nursing program? ",
+      "ai_response": "Yes, the age limit for the B.Sc. Nursing program is up to 35 years.",
+      "timestamp": "2025-07-23T13:10:11.260505"
+    },
+    {
+      "user_input": "How many seats are available in the Cyber Security specialization for the B.Tech course?",
+      "ai_response": "There are 60 seats available in the Cyber Security specialization for the B.Tech course.",
+      "timestamp": "2025-07-23T13:11:59.597638"
+    },
+    {
+      "user_input": "what is the fees of that ?",
+      "ai_response": "The provided text only gives the fee for the B.Tech program as Rs. 31,000 per semester.  To find out the fees for other programs, including the one you are inquiring about, please visit the Gandhinagar University website or contact their admissions office directly.  Fees are subject to change and vary depending on the specific program.",
+      "timestamp": "2025-07-23T13:12:33.340565"
+    },
+    {
+      "user_input": "i had done 12 science group A can am i aligible for this course",
+      "ai_response": "Based on the provided text, a 12th-grade science group A qualification makes you eligible for the B.Sc. program.  The document states that eligibility for the B.Sc. program is \"10+2 (PCM/PCB) or Equivalent from a Recognised Board\".  Since a 12th-grade science group A likely meets this criteria, you would be eligible.",
+      "timestamp": "2025-07-23T13:13:49.330954"
+    },
+    {
+      "user_input": "i am not eligible for Cyber Security (b tech)",
+      "ai_response": "The provided text does not contain information about eligibility requirements for the B.Tech Cyber Security specialization, so I cannot answer your question.",
+      "timestamp": "2025-07-23T13:15:00.152552"
+    },
+    {
+      "user_input": "i want to take admission in b tech",
+      "ai_response": "Based on the provided text, the B.Tech program at Gandhinagar University has a tuition fee of Rs. 31,000 per semester.  To be eligible, you need to have completed 10+2 (PCM) or equivalent from a recognized board, and you must also qualify through the Admission Committee for Professional Courses (ACPC).  Several specializations are available, including Civil, Computer, Information Technology, Mechanical, Electrical, Electronics & Communication, Computer Science & Engineering, Information & Communication Technology, Cyber Security, and Artificial Intelligence.  The number of seats varies per specialization.",
+      "timestamp": "2025-07-23T14:11:02.925257"
+    },
+    {
+      "user_input": "can you give some information about the Information Technology",
+      "ai_response": "The B.Tech in Information Technology at Gandhinagar University is a 4-year program with 180 seats available.  The tuition fee is Rs. 31,000 per semester. Admission is through the Admission Committee for Professional Courses (ACPC), and requires completion of 10+2 with Physics, Chemistry, and Mathematics (PCM) and passing the GUJCET.  Please note that fees are subject to change.",
+      "timestamp": "2025-07-23T14:11:52.758650"
+    },
+    {
+      "user_input": "i have done science group A and i am good in maths what should i do next",
+      "ai_response": "Hello!  I'm happy to help you with your questions about the Gandhinagar University admissions process.  To best assist you, please tell me what you'd like to know.  For example, are you interested in:\n\n* **Specific program requirements?** (e.g., GPA, entrance exams, portfolio submissions)  Please specify the program you are interested in.\n* **Application deadlines and procedures?**  This includes information on how to apply online, required documents, and fee payment.\n* **Scholarships and financial aid opportunities?**  We have various options available, and I can guide you to the relevant resources.\n* **International student admissions?**  This involves specific visa requirements and other considerations.\n* **Accommodation options for students?**  We have on-campus and off-campus housing options.\n* **The admissions process for a specific undergraduate or postgraduate program?**  Please provide the program name.\n\n\nThe more details you provide, the better I can assist you.  I look forward to helping you navigate the admissions process at Gandhinagar University.",
+      "timestamp": "2025-07-23T14:30:22.886215"
+    },
+    {
+      "user_input": "i want a list of courses i am eligible for",
+      "ai_response": "I need more information to answer your question.  To determine which courses you are eligible for, I need to know what subjects you studied in your Science Group A and your marks or percentage.  Also, please specify if you are interested in undergraduate or postgraduate programs.",
+      "timestamp": "2025-07-23T14:34:28.063156"
+    },
+    {
+      "user_input": "subject:- pcm ",
+      "ai_response": "Based on the provided text, a PCM background qualifies you for the B.Tech in Information Technology program at Gandhinagar University.  This program requires a 10+2 with PCM and passing the GUJCET.",
+      "timestamp": "2025-07-23T14:37:02.192776"
+    },
+    {
+      "user_input": "i have done science group A and i am good in maths what should i do next",
+      "ai_response": "Please tell me about your academic background and program of interest at Gandhinagar University, so I can best assist you with the admissions process.  I'm happy to guide you through the application requirements and deadlines.",
+      "timestamp": "2025-07-23T14:39:00.879654"
+    },
+    {
+      "user_input": "pcm",
+      "ai_response": "Based on your PCM background, you are eligible for the B.Tech in Information Technology program.  This program requires a 10+2 with PCM and passing the GUJCET.",
+      "timestamp": "2025-07-23T14:40:34.789251"
+    },
+    {
+      "user_input": "can you give me some information about these course",
+      "ai_response": "Please tell me about your academic background and program of interest at Gandhinagar University, so I can best assist you with the admissions process.  I'm happy to guide you through the application requirements and deadlines.",
+      "timestamp": "2025-07-23T14:41:57.758281"
+    },
+    {
+      "user_input": "information technology ",
+      "ai_response": "Gandhinagar University offers a 5-year integrated M.Sc. in Information Technology and a 3-year B.Sc. in IT; both require a 10+2 from a recognized board.  Admission to both programs is merit-based.",
+      "timestamp": "2025-07-23T14:42:41.433944"
+    },
+    {
+      "user_input": "b tech information technology",
+      "ai_response": "I'm sorry, but information about a B.Tech in Information Technology at Gandhinagar University is not available in the provided text.  The provided text mentions a 5-year integrated M.Sc. and a 3-year B.Sc. in IT.",
+      "timestamp": "2025-07-23T14:44:14.655962"
+    }
+  ],
+  "episodic_memory": {
+    "157e0c43-1c07-4d52-85d8-ea4efecf4155": [
+      {
+        "user_input": "hii",
+        "ai_response": "Hi there! How can I help you today?",
+        "timestamp": "2025-07-16T15:22:10.506344"
+      },
+      {
+        "user_input": "im 12th passout",
+        "ai_response": "Okay, congratulations on passing 12th! That's a big accomplishment. What are you thinking about doing next? I can help you explore options like:\n\n*   **Further Education:**\n    *   Different degree programs (BA, BSc, BCom, Engineering, Medical, etc.)\n    *   Colleges and universities\n    *   Entrance exams\n    *   Scholarships and financial aid\n*   **Career Paths:**\n    *   Exploring different career options based on your interests and skills\n    *   Entry-level jobs\n    *   Vocational training or apprenticeships\n*   **Gap Year:**\n    *   Planning a productive gap year (volunteering, travel, internships, etc.)\n\nJust let me know what you're interested in, or if you're feeling lost, tell me a little about your interests, what subjects you enjoyed in school, and what you're good at. I'm here to help you figure out your next steps!",
+        "timestamp": "2025-07-16T15:22:39.091689"
+      },
+      {
+        "user_input": "hyy",
+        "ai_response": "Hi! How can I help you today? Are you still thinking about your options after passing 12th?",
+        "timestamp": "2025-07-16T15:23:57.216357"
+      },
+      {
+        "user_input": "im good in maths",
+        "ai_response": "That's great! Since you're good at maths, have you considered fields like engineering, computer science, data science, finance, or even becoming a math teacher? We can explore these options further if you'd like.",
+        "timestamp": "2025-07-16T15:25:37.299171"
+      },
+      {
+        "user_input": "but im baad in physics",
+        "ai_response": "Okay, that's good to know! So, while you're good at math but not physics, maybe engineering isn't the best fit. How about computer science, data science, or finance? These fields use math extensively but don't rely as heavily on physics. Are any of those interesting to you?",
+        "timestamp": "2025-07-16T15:28:01.344263"
+      },
+      {
+        "user_input": "What documents are needed for MBA admission?",
+        "ai_response": "This question cannot be answered from the given source.  The provided text describes the application process for several programs, including a BBA (Bachelor of Business Administration), but not an MBA (Master of Business Administration).  Therefore, the required documents for MBA admission are not specified.",
+        "timestamp": "2025-07-22T15:29:01.784765"
+      },
+      {
+        "user_input": "what is the fee structure for that program?",
+        "ai_response": "The provided text mentions fee structures for several programs, but doesn't specify which program you are referring to.  To answer your question, please specify the program.  The fee structures mentioned include:\n\n* **Gandhinagar University programs (merit-based):** Rs. 30,000 per semester (one program), Rs. 35,000 per semester (two programs), and Rs. 50,000 per semester (one program).  Note that additional fees may apply.\n* **Certificate/Diploma Skill Programs (ACPC):** Rs. 41,475 per semester.\n* **B.Sc Nursing:** Rs. 65,000 per year.\n\nAll fees are subject to change.",
+        "timestamp": "2025-07-22T15:29:05.205468"
+      },
+      {
+        "user_input": "What is a fun fact about computers?",
+        "ai_response": "That's a great question!  There are many fun facts about computers, but one that always fascinates people is that the first computer bug was actually a literal bug \u2013 a moth trapped in a relay of the Harvard Mark II computer in 1947!  The term \"bug\" in computing comes directly from this incident.",
+        "timestamp": "2025-07-22T15:29:07.677021"
+      },
+      {
+        "user_input": "What documents are needed for M Tech admission?",
+        "ai_response": "This question cannot be answered from the given source.  The provided text mentions that documentation is required as per university guidelines for M.Tech admission, but it does not specify what those documents are.",
+        "timestamp": "2025-07-22T15:31:30.157622"
+      },
+      {
+        "user_input": "What is a fun fact about computers?",
+        "ai_response": "A fun fact about computers is that the term \"bug\" for a software error comes from a real moth that was found stuck in a relay of the Harvard Mark II computer in 1947!",
+        "timestamp": "2025-07-22T15:31:35.537500"
+      },
+      {
+        "user_input": "what is the fee structure for that program?",
+        "ai_response": "The provided text gives fee structures for several programs, but doesn't specify a particular program for which you're asking the fee structure.  To answer your question, please specify the program.",
+        "timestamp": "2025-07-22T15:40:12.388208"
+      },
+      {
+        "user_input": "Program Overview of Bachelor of Technology (B.Tech)",
+        "ai_response": "Program Overview:\nDuration: 4 Years\nEligibility: 10+2 (PCM) or Equivalent from a Recognised Board + GUJCET\nAdmission Process: Admissions at Gandhinagar University is done through The Admission Committee for Professional Courses (ACPC)\nTuition Fees: Rs. 31,000/- per semester (FRC approved)\nAvailable Specializations and Intake:\nCivil Engineering: 90 seats\nComputer Engineering: 300 seats (180+120)\nInformation Technology: 180 seats (120+60)\nMechanical Engineering: 180 seats\nElectrical Engineering: 60 seats\nElectronics & Communication: 30 seats\nComputer Science & Engineering: 60 seats\nInformation & Communication Technology: 60 seats\nCyber Security: 60 seats\nArtificial Intelligence: 30 seats",
+        "timestamp": "2025-07-22T15:41:11.941194"
+      },
+      {
+        "user_input": "what should i take after 12th science A group",
+        "ai_response": "After completing your 12th standard with a Science A group (assuming this includes Physics, Chemistry, and Mathematics), you have many options.  A popular choice is pursuing a Bachelor of Technology (B.Tech) degree, as outlined in the program overview.  The B.Tech program offers specializations in various engineering fields like Computer Engineering, Information Technology, and others.  Consider your interests and aptitudes when selecting a specialization.  Other options include pursuing a Bachelor of Science (BSc) in a science-related field or exploring professional courses depending on your career goals.  It's recommended to research different programs, consider career prospects, and potentially seek career counseling to help you make an informed decision about your future studies.",
+        "timestamp": "2025-07-22T15:41:43.922247"
+      },
+      {
+        "user_input": "",
+        "ai_response": "After completing your 12th standard with Science, many options are available to you.  The best choice depends on your interests and career goals.  A Bachelor of Technology (B.Tech) is a common and popular choice, leading to careers in various engineering fields.  Other options include a Bachelor of Science (BSc) in a science-related field, or other professional programs.  Researching different programs and career prospects is crucial.  Consider seeking academic and career counseling to help you navigate your options and make an informed decision.",
+        "timestamp": "2025-07-22T15:47:16.193415"
+      },
+      {
+        "user_input": "",
+        "ai_response": "To help you decide what to do after 12th Science, we need to consider your interests and career aspirations.  A B.Tech is a strong option, offering diverse specializations in engineering.  However,  BSc degrees in various scientific fields are also excellent choices, depending on your specific interests (e.g., Biology, Chemistry, Physics).  There are also numerous professional courses to explore.  \n\nTo make the best decision, I strongly recommend researching various programs and their associated career paths.  Consider what kind of work you'd enjoy and what skills you possess.  Scheduling an appointment for a comprehensive career counseling session will allow us to explore your options in more detail, assess your strengths and weaknesses, and help you create a plan that aligns with your goals.  We can discuss aptitude tests, personality assessments, and explore various career resources to guide you towards the best path for your future.",
+        "timestamp": "2025-07-22T15:47:19.506367"
+      },
+      {
+        "user_input": "i passed 12th what should i do",
+        "ai_response": "Congratulations on finishing 12th grade!  That's a significant accomplishment.  Now, the next step depends entirely on your interests and what you envision for your future career.  There's a wide range of possibilities, including:\n\n* **Higher Education:**  This could involve pursuing a Bachelor's degree (B.A. or B.S.) in a field that interests you, such as engineering (B.Tech), science, arts, business, or many others.  Consider what subjects you enjoyed in school and what kind of career you'd like to have.\n\n* **Vocational Training:**  If you're more practically inclined, vocational training programs can equip you with specific job skills in areas like healthcare, technology, or skilled trades.  These programs often lead to faster entry into the workforce.\n\n* **Gap Year:**  A gap year can be a valuable opportunity for personal growth, travel, volunteering, or exploring different career paths before committing to formal education.\n\n* **Direct Entry into the Workforce:**  Depending on your skills and the job market, you might find suitable employment directly after 12th grade.\n\nTo help you decide, I strongly recommend exploring these options further.  Consider your strengths, weaknesses, interests, and long-term goals.  It would be beneficial to research different programs and careers that align with your aspirations.  Scheduling a meeting with a career counselor can provide personalized guidance and help you create a plan that's right for you.",
+        "timestamp": "2025-07-22T15:47:55.254815"
+      },
+      {
+        "user_input": "im good in maths ",
+        "ai_response": "That's great!  Being strong in math opens many doors.  Many STEM (Science, Technology, Engineering, and Mathematics) fields value strong mathematical skills.  This could lead you to consider careers and educational paths in:\n\n* **Engineering:**  Various engineering disciplines (mechanical, electrical, civil, computer, etc.) heavily rely on mathematics.  A B.Tech in one of these fields could be an excellent option.\n\n* **Computer Science:**  This field is booming, and a strong math background is essential for programming, data science, and other related roles.  A B.Tech or BSc in Computer Science could be a great fit.\n\n* **Data Science/Analytics:**  This rapidly growing field uses mathematical and statistical methods to analyze large datasets.\n\n* **Actuarial Science:**  This involves using mathematical models to assess and manage financial risk.\n\n* **Mathematics itself:**  You could pursue a degree in mathematics, leading to research, teaching, or other mathematical-based careers.\n\n* **Finance:**  Many finance roles, from investment banking to financial analysis, require strong quantitative skills.\n\n\nHowever,  remember that your interests extend beyond just your aptitude.  What are you passionate about?  Do you enjoy problem-solving, working with computers, or something else entirely?  Consider how your love for math can combine with other interests to shape your career path.  A career counselor can help you explore these options further and determine which path best aligns with your overall goals and personality.",
+        "timestamp": "2025-07-22T15:50:08.294376"
+      },
+      {
+        "user_input": "my physics is bad should i go for btech civil",
+        "ai_response": "Your strength in math is a definite asset for a B.Tech in Civil Engineering, as it's a mathematically intensive field. However,  a weakness in physics might pose a challenge, as physics is also a crucial component of the curriculum.  Civil engineering involves applying physics principles to design and construct structures.\n\nBefore deciding, I strongly recommend:\n\n* **Reviewing the specific course requirements:** Examine the syllabus for a B.Tech in Civil Engineering at universities you're considering.  See exactly how much physics is involved and the level of proficiency expected.\n\n* **Self-assessment:**  Honestly evaluate your ability to improve your physics skills.  Could you dedicate extra time and effort to bolster your understanding?  Consider tutoring or additional resources.\n\n* **Exploring alternative paths:** If you're concerned about your physics skills, explore other engineering branches that may rely less heavily on physics, or consider other fields that leverage your math skills, such as computer science or certain areas of finance.\n\n* **Career counseling:** A meeting with a career counselor can help you weigh the pros and cons of pursuing Civil Engineering given your strengths and weaknesses.  They can offer personalized guidance and explore alternative options that align better with your abilities and interests.\n\nUltimately, the decision is yours.  Thorough research and self-reflection, along with professional guidance, will help you make the most informed choice.",
+        "timestamp": "2025-07-22T15:51:56.750393"
+      },
+      {
+        "user_input": "What documents are needed for M Tech admission?",
+        "ai_response": "The provided text states that documentation is required as per university guidelines for M.Tech admission, but it does not specify what those documents are.",
+        "timestamp": "2025-07-22T16:44:01.875802"
+      },
+      {
+        "user_input": "what is the fee structure for that program?",
+        "ai_response": "The provided text gives fee structures for several programs, but doesn't specify a particular program for which you are asking the fee structure.  To answer your question, please specify the program.",
+        "timestamp": "2025-07-22T16:44:06.833384"
+      },
+      {
+        "user_input": "what is the fee structure for that program?",
+        "ai_response": "The provided text does not specify \"that program,\" so I cannot answer your question.  To answer, please specify the program.  The document lists fees for several programs, including:\n\n* **Gandhinagar University Programs (merit-based):** Rs. 30,000 per semester (one program), Rs. 35,000 per semester (two programs), and Rs. 50,000 per semester (one program).\n* **Certificate/Diploma Skill Programs (ACPC):** Rs. 41,475 per semester.\n* **B.Sc. Nursing:** Rs. 65,000 per year.\n\nNote that additional fees may apply and fees are subject to change.",
+        "timestamp": "2025-07-22T16:52:38.950228"
+      },
+      {
+        "user_input": "What is a fun fact about computers?",
+        "ai_response": "The provided text is an admission guide summary for Gandhinagar University and does not contain any information about fun facts related to computers.",
+        "timestamp": "2025-07-22T16:56:20.780257"
+      },
+      {
+        "user_input": "where is your university located",
+        "ai_response": "The provided text is an admission guide summary for Gandhinagar University and does not specify the exact location of the university beyond its name, Gandhinagar University.",
+        "timestamp": "2025-07-22T16:56:59.869402"
+      },
+      {
+        "user_input": "What is a fun fact about computers?",
+        "ai_response": "I'm sorry, but as a Gandhinagar University admissions counselor, my expertise lies in providing information about our programs and admissions process.  The provided text focuses solely on admissions details and doesn't include fun facts about computers.  I would be happy to answer any questions you have about our university's offerings, however.",
+        "timestamp": "2025-07-22T17:08:20.194705"
+      },
+      {
+        "user_input": "if I take Admission in btech IT what is course of IT",
+        "ai_response": "The provided text mentions a B.Sc. in IT as a specialization under the Bachelor of Science (Computer Science & Applications) program, but it does not describe the course curriculum.",
+        "timestamp": "2025-07-22T17:09:38.922610"
+      },
+      {
+        "user_input": "i am good at maths what should i do after 12th",
+        "ai_response": "Given your strength in mathematics, several paths are open to you after your 12th-grade education at Gandhinagar University.  Our strong engineering programs are a natural fit.  If you have completed your 10+2 with Physics, Chemistry, and Mathematics (PCM), you are eligible for our 4-year Bachelor of Technology (B.Tech) program.  We offer specializations such as Computer Engineering (300 seats), Information Technology (180 seats), and Mechanical Engineering (180 seats), among others.  Admission is through the Admission Committee for Professional Courses (ACPC) and requires passing the GUJCET.\n\nAlternatively, your mathematical aptitude could be valuable in our Bachelor of Science (B.Sc.) programs, which offer various specializations, including those with a strong quantitative component.  These are merit-based admissions handled by the university's admission committee.  We also offer a Bachelor of Computer Applications (BCA) program, which emphasizes computing and may involve significant mathematical concepts.\n\nThe specific course curriculum details aren't included in this summary, but I encourage you to visit our website or contact our admissions office for detailed syllabi and further information to help you make the best decision based on your interests and career aspirations.",
+        "timestamp": "2025-07-22T17:10:45.410457"
+      },
+      {
+        "user_input": "Program Overview of MBA",
+        "ai_response": "Gandhinagar University offers a 2-year Master of Business Administration (MBA) program.  The program has 180 available seats managed by the ACPC (Admission Committee for Professional Courses).  Admission considers scores from entrance exams like CMAT, MAT, XAT, or CAT, but applications are also accepted from students without these scores.  The tuition fee is Rs. 41,475 per semester. Specializations include Information Technology, Marketing, Human Resources, and Finance, each with 30 seats, and potentially others.",
+        "timestamp": "2025-07-22T17:11:35.549096"
+      },
+      {
+        "user_input": "i want to take admission in btech",
+        "ai_response": "Gandhinagar University offers a 4-year Bachelor of Technology (B.Tech) program.  To be eligible, you need to have completed your 10+2 with Physics, Chemistry, and Mathematics (PCM).  Specializations include Computer Engineering (300 seats), Information Technology (180 seats), and Mechanical Engineering (180 seats), among others. Admission is through the Admission Committee for Professional Courses (ACPC) and requires passing the GUJCET.",
+        "timestamp": "2025-07-22T17:13:42.838669"
+      },
+      {
+        "user_input": "can you give me program overview of that?",
+        "ai_response": "That depends on which program you are asking about.  The provided text gives overviews for MBA, B.Tech, M.Tech, BBA, and B.Sc. Nursing.  Please specify the program you're interested in.",
+        "timestamp": "2025-07-22T17:14:07.640308"
+      },
+      {
+        "user_input": "btech",
+        "ai_response": "The Gandhinagar University B.Tech program is a four-year undergraduate course.  Admission is managed by the Admission Committee for Professional Courses (ACPC) and requires a passing score on the GUJCET exam.  Applicants must have completed their 10+2 education with Physics, Chemistry, and Mathematics (PCM).  The tuition fee is Rs. 31,000 per semester.  Specializations include Computer Engineering (300 seats), Information Technology (180 seats), Mechanical Engineering (180 seats), Civil Engineering (90 seats), and others with varying seat capacities.  Please note that the number of seats and specializations may change, so it's best to check the university's official website for the most up-to-date information.",
+        "timestamp": "2025-07-22T17:14:24.984850"
+      },
+      {
+        "user_input": "can you give me program overview of that?",
+        "ai_response": "The Gandhinagar University B.Tech program is a four-year undergraduate course requiring a 10+2 education with Physics, Chemistry, and Mathematics (PCM).  Admission is through the Admission Committee for Professional Courses (ACPC) and requires a passing score on the GUJCET exam.  Tuition is Rs. 31,000 per semester. Specializations include Computer Engineering (300 seats), Information Technology (180 seats), Mechanical Engineering (180 seats), Civil Engineering (90 seats), and others.  The number of seats and specializations may change, so check the university website for the most up-to-date information.",
+        "timestamp": "2025-07-22T17:17:26.847222"
+      },
+      {
+        "user_input": "/stop",
+        "ai_response": "/stop",
+        "timestamp": "2025-07-22T17:17:52.237168"
+      },
+      {
+        "user_input": "i want admission in btech",
+        "ai_response": "The Gandhinagar University B.Tech program is a four-year undergraduate course. Admission is managed by the Admission Committee for Professional Courses (ACPC) and requires a passing score on the GUJCET exam.  Applicants must have completed their 10+2 education with Physics, Chemistry, and Mathematics (PCM). The tuition fee is Rs. 31,000 per semester. Specializations include Computer Engineering (300 seats), Information Technology (180 seats), Mechanical Engineering (180 seats), Civil Engineering (90 seats), and others with varying seat capacities.  The number of seats and specializations may change, so check the university's official website for the most up-to-date information.",
+        "timestamp": "2025-07-22T18:01:36.487045"
+      },
+      {
+        "user_input": "Information Technology in detail",
+        "ai_response": "Gandhinagar University offers a Bachelor of Technology (B.Tech) in Information Technology as a four-year undergraduate program.  Admission is through the Admission Committee for Professional Courses (ACPC) and requires a passing score on the GUJCET exam.  Applicants must have completed their 10+2 education with Physics, Chemistry, and Mathematics (PCM).  The program currently has 180 seats, but this number is subject to change. The tuition fee is Rs. 31,000 per semester.  For the most current information on seat availability and program details, please refer to the official Gandhinagar University website.",
+        "timestamp": "2025-07-22T18:02:27.405144"
+      },
+      {
+        "user_input": "what is the location of the university",
+        "ai_response": "The provided text does not specify the location of Gandhinagar University.  To find the location, you should consult the university's official website.",
+        "timestamp": "2025-07-22T18:03:38.931279"
+      },
+      {
+        "user_input": "i have done 12th science a group what should i do next ? and i am goog=d in maths",
+        "ai_response": "Given your 12th science (A group) background and aptitude for mathematics, you are well-suited for the B.Tech program at Gandhinagar University.  To apply, you need to:\n\n1. **Check the Gandhinagar University website:**  Confirm the specific eligibility criteria, deadlines, and application procedures for the current academic year.  The information provided is a summary and may not be entirely up-to-date.\n2. **Prepare for the GUJCET exam:** This is a crucial step for admission to the B.Tech program, managed by the ACPC.  Begin studying for this entrance exam immediately.\n3. **Choose your specialization:** Gandhinagar University offers several B.Tech specializations, including Computer Engineering and Information Technology, which would be particularly suitable given your math skills.  Research the different specializations to determine which best aligns with your interests and career goals.\n4. **Complete the application process:**  Once you've met the eligibility requirements and prepared for the GUJCET, fill out the application form through the ACPC.\n\n\nRemember that the details provided here are based on previous information, and you must verify the current admission requirements and procedures on the official Gandhinagar University website.",
+        "timestamp": "2025-07-23T11:14:35.470286"
+      },
+      {
+        "user_input": "the date of acpc is gone so can i take offline admission in your university?",
+        "ai_response": "The provided text does not contain information about offline admissions or deadlines for the ACPC.  To determine if offline admission is possible and what the relevant dates are, you must consult the official Gandhinagar University website.",
+        "timestamp": "2025-07-23T11:16:10.128252"
+      },
+      {
+        "user_input": "shut the fuck up i dont want any admission\\",
+        "ai_response": "I understand you're not interested in pursuing admission at Gandhinagar University right now.  I will not provide any further information about the admission process.",
+        "timestamp": "2025-07-23T11:18:06.121216"
+      },
+      {
+        "user_input": "tell me something about gandhi nagar universitliy",
+        "ai_response": "Gandhinagar University offers a wide range of undergraduate, postgraduate, diploma, and certificate programs across various disciplines.  For example,  it has a 4-year B.Tech program (with specializations like Computer Engineering, Information Technology, Mechanical Engineering, and Civil Engineering) requiring a 10+2 with Physics, Chemistry, and Mathematics (PCM) and a pass in the GUJCET exam.  Admission is handled by the Admission Committee for Professional Courses (ACPC) for professional courses like B.Tech, and by the Gandhinagar University Admission Committee for other programs.  The university also offers BBA and MBA programs with differing eligibility criteria and entrance exam requirements.  Tuition fees vary by program and are typically quoted per semester.  All information should be verified on the official Gandhinagar University website as details may change.",
+        "timestamp": "2025-07-23T11:18:24.961511"
+      },
+      {
+        "user_input": "what is the fess of btech",
+        "ai_response": "The provided text does not specify the tuition fees for a B.Tech program at Gandhinagar University.  However, it does state that  M.Tech tuition is Rs. 42,500/- per semester (FRC approved).  To find the B.Tech fees, you must consult the official Gandhinagar University website.",
+        "timestamp": "2025-07-23T11:18:36.091090"
+      },
+      {
+        "user_input": "location",
+        "ai_response": "The provided text does not specify the location of Gandhinagar University.  To find the location, you should consult the official Gandhinagar University website.",
+        "timestamp": "2025-07-23T11:19:08.072378"
+      },
+      {
+        "user_input": "what is the location of gandhinagar university",
+        "ai_response": "While the provided text doesn't specify the exact address, Gandhinagar University is, as its name suggests, located in Gandhinagar, Gujarat, India.  You can find the precise location and contact information on the official university website.",
+        "timestamp": "2025-07-23T11:38:40.970797"
+      },
+      {
+        "user_input": "what should i do after 12th science group a i am good at maths",
+        "ai_response": "The provided text gives information on several undergraduate programs at Gandhinagar University.  Since you are good at math and have completed your 12th science, you could consider the B.Sc. program (with a specialization in Mathematics) or the B.Sc. (Honours) program.  The specific admission process and requirements are not detailed here; you should check the official Gandhinagar University website for complete details.",
+        "timestamp": "2025-07-23T11:39:28.659784"
+      },
+      {
+        "user_input": "what should i do after 12 science group B",
+        "ai_response": "With a 12th Science Group B background, you have several options at Gandhinagar University.  While the provided information focuses on engineering and business administration,  Gandhinagar University offers a broad spectrum of undergraduate programs.  Given your science background, you might explore programs in areas like biotechnology, environmental science, or other science-related fields.  To determine the specific programs that align with your interests and the admission requirements, I strongly recommend visiting the official Gandhinagar University website.  There you will find a comprehensive list of programs and their respective eligibility criteria.  The admissions process will vary depending on the program you choose, but generally involves applying through either the ACPC (for professional courses) or the Gandhinagar University Admission Committee.",
+        "timestamp": "2025-07-23T11:42:11.298051"
+      },
+      {
+        "user_input": "i want to take admission in btech can i do that ??",
+        "ai_response": "The provided text mentions that the Admission Committee for Professional Courses (ACPC) handles admissions for engineering,  but it does not offer details on B.Tech admission requirements or the application process.  To find out if you can be admitted to a B.Tech program and how to apply, please check the official Gandhinagar University website.",
+        "timestamp": "2025-07-23T11:43:17.968991"
+      },
+      {
+        "user_input": "what is the location of the Collage",
+        "ai_response": "The provided text focuses on admissions and doesn't specify the location of Gandhinagar University.  However, as its name suggests, the university is located in Gandhinagar, India.  For precise location details including address and map, I recommend visiting the official Gandhinagar University website.",
+        "timestamp": "2025-07-23T11:59:03.406407"
+      },
+      {
+        "user_input": "fees of btech",
+        "ai_response": "The provided text does not contain information on B.Tech fees at Gandhinagar University.",
+        "timestamp": "2025-07-23T12:42:40.087948"
+      },
+      {
+        "user_input": "m tech",
+        "ai_response": "The provided text gives information about the M.Tech program at Gandhinagar University.  It's a 2-year program requiring a B.E./B.Tech. in a relevant branch or equivalent from a recognized board.  Admissions are handled by the Admission Committee for Professional Courses (ACPC). Tuition fees are Rs. 42,500/- per semester (FRC approved).  Specializations include Mechanical Engineering (Thermal Engineering and CAD/CAM) and Computer Engineering (Software Engineering).",
+        "timestamp": "2025-07-23T12:42:55.139900"
+      },
+      {
+        "user_input": "fees of b tech",
+        "ai_response": "The provided text does not contain information on B.Tech fees at Gandhinagar University.",
+        "timestamp": "2025-07-23T12:43:04.691081"
+      },
+      {
+        "user_input": "Available Specializations and Intake of b tech",
+        "ai_response": "The provided text does not contain information on B.Tech specializations and intake at Gandhinagar University.",
+        "timestamp": "2025-07-23T12:44:47.278791"
+      },
+      {
+        "user_input": "for m tech",
+        "ai_response": "The M.Tech program is a 2-year program requiring a B.E./B.Tech. in a relevant branch or equivalent from a recognized board.  Admissions are handled by the Admission Committee for Professional Courses (ACPC). Tuition fees are Rs. 42,500/- per semester (FRC approved). Specializations include Mechanical Engineering (Thermal Engineering and CAD/CAM) with 9 seats each, and Computer Engineering (Software Engineering) with 18 seats.",
+        "timestamp": "2025-07-23T12:44:54.614691"
+      },
+      {
+        "user_input": "only about Available Specializations and Intake",
+        "ai_response": "The provided text offers information on specializations and intake for several programs, but not B.Tech.  For M.Tech, there are 9 seats each for Mechanical Engineering (Thermal Engineering and CAD/CAM), and 18 seats for Computer Engineering (Software Engineering).  For M.A., there are 30 seats each for Gujarati, English, Hindi, Political Science, Psychology, and Economics.  The B.Sc. program has 60 seats each for Mathematics, Physics, Chemistry, Microbiology, Botany, Environmental Science, Nutrition, and Medical Laboratory Technicians.  The B.Sc. (Honours) program's specializations and intake numbers are not specified.",
+        "timestamp": "2025-07-23T12:45:19.318982"
+      },
+      {
+        "user_input": "fees of btech",
+        "ai_response": "The provided text does not contain information on B.Tech fees at Gandhinagar University.",
+        "timestamp": "2025-07-23T12:52:44.578977"
+      },
+      {
+        "user_input": "bba",
+        "ai_response": "The BBA program is a 3-year program requiring a 10+2 or equivalent from a recognized Indian board with English and Accountancy subjects.  Students who didn't take Accountancy in 12th grade must complete a bridge course for \u20b92000 before the first semester.  Admissions are merit-based through Gandhinagar University's Admission Committee.  Tuition is Rs. 35,000/- per semester, and there are 700 sanctioned seats.",
+        "timestamp": "2025-07-23T12:53:23.728642"
+      },
+      {
+        "user_input": "Bachelor of Science (Honours) ",
+        "ai_response": "The provided text gives the duration of the B.Sc. (Honours) program as 4 years and states that eligibility is a 10+2 (PCM/PCB) or equivalent from a recognized board.  Admissions are merit-based through Gandhinagar University's Admission Committee.  However, it does *not* specify the available specializations or intake numbers for this program.",
+        "timestamp": "2025-07-23T12:53:45.597714"
+      },
+      {
+        "user_input": "i am good in math and i have done science what should i do ?",
+        "ai_response": "Given your strong math skills and science background, several exciting avenues are open to you at Gandhinagar University.  Based on your profile, you would be well-suited for our Bachelor of Technology (B.Tech) program.  This 4-year program requires a 10+2 qualification with Physics, Chemistry, and Mathematics (PCM), and you'll need to pass the GUJCET exam for admission.  We offer specializations in areas like Computer Engineering, Information Technology, and Mechanical Engineering, among others.  Alternatively, you could consider our Bachelor of Science (Honours) program, which also requires a 10+2 with science subjects.  To learn more about specific specializations, seat availability, and the application process for either program, please visit our website or contact our admissions office. We can help you determine which program best aligns with your interests and career aspirations.",
+        "timestamp": "2025-07-23T12:54:14.909770"
+      },
+      {
+        "user_input": "b. tech",
+        "ai_response": "The B.Tech program is a 4-year program requiring a 10+2 qualification with Physics, Chemistry, and Mathematics (PCM).  Admission requires passing the GUJCET exam.  Specializations include Computer Engineering, Information Technology, and Mechanical Engineering, among others.  Specific details on seat availability and the application process are available on the university website or from the admissions office.",
+        "timestamp": "2025-07-23T12:54:33.607401"
+      },
+      {
+        "user_input": "fees of b tech",
+        "ai_response": "The provided text does not specify the fees for the B.Tech program.",
+        "timestamp": "2025-07-23T12:55:24.423399"
+      },
+      {
+        "user_input": "tution fees of btech",
+        "ai_response": "The tuition fee for the B.Tech program at Gandhinagar University is Rs. 31,000 per semester.  Please note that this fee is subject to change.",
+        "timestamp": "2025-07-23T12:57:43.473051"
+      },
+      {
+        "user_input": "fees of m tech",
+        "ai_response": "The tuition fee for the M.Tech program is Rs. 42,500 per semester (FRC approved) for Mechanical Engineering (Thermal Engineering) and Mechanical Engineering (CAD/CAM), and Rs. 41,475 per semester for Computer Engineering (Software Engineering).",
+        "timestamp": "2025-07-23T12:57:55.789119"
+      },
+      {
+        "user_input": "hi",
+        "ai_response": "Hi there! Welcome to Gandhinagar University. How can I help you today?  I'm happy to answer any questions you have about our admissions process or programs.",
+        "timestamp": "2025-07-23T13:05:22.702360"
+      },
+      {
+        "user_input": "i want to take admission in b. tech",
+        "ai_response": "The tuition fee for the B.Tech program at Gandhinagar University is Rs. 31,000 per semester.  Please note that this fee is subject to change.",
+        "timestamp": "2025-07-23T13:06:28.964463"
+      },
+      {
+        "user_input": "Program Overview of b tech",
+        "ai_response": "The provided text does not contain a \"Program Overview\" for a B.Tech program.  It only states that the tuition fee for the B.Tech program is Rs. 31,000 per semester.",
+        "timestamp": "2025-07-23T13:07:01.576503"
+      },
+      {
+        "user_input": "What are the library and sports facilities like on campus?",
+        "ai_response": "While the provided information focuses on admissions, I can tell you that Gandhinagar University is committed to providing a well-rounded student experience.  We strive to offer excellent library and sports facilities to support our students' academic and personal well-being.  To get specific details about our library resources and sports programs, I recommend visiting our university website or contacting our admissions office directly.  They can provide you with the most up-to-date information on these facilities.",
+        "timestamp": "2025-07-23T13:08:19.202278"
+      },
+      {
+        "user_input": "",
+        "ai_response": "To apply for the B.Tech program at Gandhinagar University, you'll need to have completed your 10+2 education with Physics, Chemistry, and Mathematics (PCM) and have passed the GUJCET.  Admission is handled by the Admission Committee for Professional Courses (ACPC).  The program is four years long, and the tuition fee is Rs. 31,000 per semester.  Keep in mind that this fee is subject to change.  Specific specializations within the B.Tech program include Computer Engineering, Information Technology, Mechanical Engineering, Civil Engineering, and others.  The number of seats available varies by specialization.  For more detailed information on specific specializations and seat availability, please check the university website or contact our admissions office.",
+        "timestamp": "2025-07-23T13:08:22.250685"
+      },
+      {
+        "user_input": "How much is the tuition fee per semester for the M.Tech program? ",
+        "ai_response": "The provided text focuses on B.Tech and other undergraduate programs, and doesn't specify the tuition fee for an M.Tech program.  However, at Gandhinagar University, tuition fees are subject to change and vary depending on the specific program.  For the most accurate and up-to-date information on M.Tech program fees, I recommend visiting the university website or contacting the admissions office directly.",
+        "timestamp": "2025-07-23T13:08:52.780427"
+      },
+      {
+        "user_input": "Is there an age limit for the B.Sc Nursing program? ",
+        "ai_response": "Yes, the age limit for the B.Sc. Nursing program is up to 35 years.",
+        "timestamp": "2025-07-23T13:10:11.260505"
+      },
+      {
+        "user_input": "How many seats are available in the Cyber Security specialization for the B.Tech course?",
+        "ai_response": "There are 60 seats available in the Cyber Security specialization for the B.Tech course.",
+        "timestamp": "2025-07-23T13:11:59.597638"
+      },
+      {
+        "user_input": "what is the fees of that ?",
+        "ai_response": "The provided text only gives the fee for the B.Tech program as Rs. 31,000 per semester.  To find out the fees for other programs, including the one you are inquiring about, please visit the Gandhinagar University website or contact their admissions office directly.  Fees are subject to change and vary depending on the specific program.",
+        "timestamp": "2025-07-23T13:12:33.340565"
+      },
+      {
+        "user_input": "i had done 12 science group A can am i aligible for this course",
+        "ai_response": "Based on the provided text, a 12th-grade science group A qualification makes you eligible for the B.Sc. program.  The document states that eligibility for the B.Sc. program is \"10+2 (PCM/PCB) or Equivalent from a Recognised Board\".  Since a 12th-grade science group A likely meets this criteria, you would be eligible.",
+        "timestamp": "2025-07-23T13:13:49.330954"
+      },
+      {
+        "user_input": "i am not eligible for Cyber Security (b tech)",
+        "ai_response": "The provided text does not contain information about eligibility requirements for the B.Tech Cyber Security specialization, so I cannot answer your question.",
+        "timestamp": "2025-07-23T13:15:00.152552"
+      },
+      {
+        "user_input": "i want to take admission in b tech",
+        "ai_response": "Based on the provided text, the B.Tech program at Gandhinagar University has a tuition fee of Rs. 31,000 per semester.  To be eligible, you need to have completed 10+2 (PCM) or equivalent from a recognized board, and you must also qualify through the Admission Committee for Professional Courses (ACPC).  Several specializations are available, including Civil, Computer, Information Technology, Mechanical, Electrical, Electronics & Communication, Computer Science & Engineering, Information & Communication Technology, Cyber Security, and Artificial Intelligence.  The number of seats varies per specialization.",
+        "timestamp": "2025-07-23T14:11:02.925257"
+      },
+      {
+        "user_input": "can you give some information about the Information Technology",
+        "ai_response": "The B.Tech in Information Technology at Gandhinagar University is a 4-year program with 180 seats available.  The tuition fee is Rs. 31,000 per semester. Admission is through the Admission Committee for Professional Courses (ACPC), and requires completion of 10+2 with Physics, Chemistry, and Mathematics (PCM) and passing the GUJCET.  Please note that fees are subject to change.",
+        "timestamp": "2025-07-23T14:11:52.758650"
+      },
+      {
+        "user_input": "i have done science group A and i am good in maths what should i do next",
+        "ai_response": "Hello!  I'm happy to help you with your questions about the Gandhinagar University admissions process.  To best assist you, please tell me what you'd like to know.  For example, are you interested in:\n\n* **Specific program requirements?** (e.g., GPA, entrance exams, portfolio submissions)  Please specify the program you are interested in.\n* **Application deadlines and procedures?**  This includes information on how to apply online, required documents, and fee payment.\n* **Scholarships and financial aid opportunities?**  We have various options available, and I can guide you to the relevant resources.\n* **International student admissions?**  This involves specific visa requirements and other considerations.\n* **Accommodation options for students?**  We have on-campus and off-campus housing options.\n* **The admissions process for a specific undergraduate or postgraduate program?**  Please provide the program name.\n\n\nThe more details you provide, the better I can assist you.  I look forward to helping you navigate the admissions process at Gandhinagar University.",
+        "timestamp": "2025-07-23T14:30:22.886215"
+      },
+      {
+        "user_input": "i want a list of courses i am eligible for",
+        "ai_response": "I need more information to answer your question.  To determine which courses you are eligible for, I need to know what subjects you studied in your Science Group A and your marks or percentage.  Also, please specify if you are interested in undergraduate or postgraduate programs.",
+        "timestamp": "2025-07-23T14:34:28.063156"
+      },
+      {
+        "user_input": "subject:- pcm ",
+        "ai_response": "Based on the provided text, a PCM background qualifies you for the B.Tech in Information Technology program at Gandhinagar University.  This program requires a 10+2 with PCM and passing the GUJCET.",
+        "timestamp": "2025-07-23T14:37:02.192776"
+      },
+      {
+        "user_input": "i have done science group A and i am good in maths what should i do next",
+        "ai_response": "Please tell me about your academic background and program of interest at Gandhinagar University, so I can best assist you with the admissions process.  I'm happy to guide you through the application requirements and deadlines.",
+        "timestamp": "2025-07-23T14:39:00.879654"
+      },
+      {
+        "user_input": "pcm",
+        "ai_response": "Based on your PCM background, you are eligible for the B.Tech in Information Technology program.  This program requires a 10+2 with PCM and passing the GUJCET.",
+        "timestamp": "2025-07-23T14:40:34.789251"
+      },
+      {
+        "user_input": "can you give me some information about these course",
+        "ai_response": "Please tell me about your academic background and program of interest at Gandhinagar University, so I can best assist you with the admissions process.  I'm happy to guide you through the application requirements and deadlines.",
+        "timestamp": "2025-07-23T14:41:57.758281"
+      },
+      {
+        "user_input": "information technology ",
+        "ai_response": "Gandhinagar University offers a 5-year integrated M.Sc. in Information Technology and a 3-year B.Sc. in IT; both require a 10+2 from a recognized board.  Admission to both programs is merit-based.",
+        "timestamp": "2025-07-23T14:42:41.433944"
+      },
+      {
+        "user_input": "b tech information technology",
+        "ai_response": "I'm sorry, but information about a B.Tech in Information Technology at Gandhinagar University is not available in the provided text.  The provided text mentions a 5-year integrated M.Sc. and a 3-year B.Sc. in IT.",
+        "timestamp": "2025-07-23T14:44:14.655962"
+      }
+    ]
+  },
+  "current_session": "157e0c43-1c07-4d52-85d8-ea4efecf4155"
+}
